@@ -23,7 +23,8 @@ STEP 5: SET UP YOUR EXCEL SPREADSHEET TO SEND DATA. SEE MY EXAMPLE:
 https://docs.google.com/spreadsheets/d/153t0PWeDCx7Xh1s1hMjR2uczQ0amfGSTKSLyhrVJ-20/edit?usp=sharing
 
 STEP 6: DEPLOY "DEPLOY HEROKU" FOLDER TO HEROKU. https://devcenter.heroku.com/articles/git
-------------------------------------------------
+
+******************
 How different is this idea from past repositories?
 - The python app makes use of 'Scheduler' Library. When deployed to Heroku as Worker and not Webapp, it puts python code to sleep until moment. Effective way to save on dynos. [This is compared to web polling method, that consumes large amounts of Dynos due constant active state of python code]
 
