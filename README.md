@@ -20,7 +20,8 @@ STEP 4: CREATE TELEGRAM BOT WITH BOTFATHER. CREATE TELEGRAM CHANNEL/GROUP. GET B
 Special Thanks - https://www.youtube.com/watch?v=ps1yeWwd6iA
 
 STEP 5: SET UP YOUR EXCEL SPREADSHEET TO SEND DATA. SEE MY EXAMPLE: 
-https://docs.google.com/spreadsheets/d/153t0PWeDCx7Xh1s1hMjR2uczQ0amfGSTKSLyhrVJ-20/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/153t0PWeDCx7Xh1s1hMjR2uczQ0amfGSTKSLyhrVJ-20/edit?usp=sharing.
+=> This sheet can be edited except for protected cells. Feel free to play around and explore orange cells and monthly/weekly quiz sheet(empty cells A:C, G: )
 
 STEP 6: DEPLOY "DEPLOY HEROKU" FOLDER TO HEROKU. https://devcenter.heroku.com/articles/git
 
