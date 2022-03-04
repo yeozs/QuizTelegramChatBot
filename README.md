@@ -33,6 +33,9 @@ How does the excel sheet work?
 - Only the cells in orange should be edited. The rest of the cells are formulated.
 - Python code grabs values from cells in red. These values will be triggered by python code to send notification to Telegram.
 
+Explanations sheet:
+- Those who have completed quiz will be reflected here for ease of access.
+
 quizOpenReminder sheet:
 - This sheet makes use of time. When the quiz is open, it will filter out the open quiz from the rest. The python code will only send notification for the quiz that is opened to telegram.
 
